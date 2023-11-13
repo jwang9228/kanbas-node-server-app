@@ -1,0 +1,16 @@
+[
+    { "_id": "RS101",
+      "name": "Rocket Propulsion", "number": "RS4550", "startDate": "2023-01-10", "endDate": "2023-05-15", 
+      "image": "../Images/sky-blue.png", "titleColor": "#3a9fbf"
+    },
+    { "_id": "RS102",
+      "name": "Aerodynamics", "number": "RS4560", "startDate": "2023-01-10", "endDate": "2023-05-15", 
+      "image": "../Images/pink.jpg", "titleColor": "#D198B7"
+    },
+    { "_id": "RS103",
+      "name": "Spacecraft Design", "number": "RS4570", "startDate": "2023-01-10", "endDate": "2023-05-15", 
+      "image": "../Images/light-purple.png", "titleColor": "#C3B1E1"
+    }
+]
+  
+  

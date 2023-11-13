@@ -1,0 +1,11 @@
+[
+    { "_id": "A101", "title": "Propulsion Assignment", "description": "Description on Propulsion", "course": "RS101", "dueDate": "2023-09-18", "availableFromDate": "2023-09-11", "availableUntilDate": "2023-09-18" },
+    { "_id": "A102", "title": "Combustion Analysis", "description": "Description on Combustion", "course": "RS101", "dueDate": "2023-09-25", "availableFromDate": "2023-09-18", "availableUntilDate": "2023-09-25" },
+    { "_id": "A103", "title": "Nozzle Design Project", "description": "Description on Nozzle Design", "course": "RS101", "dueDate": "2023-10-02", "availableFromDate": "2023-09-25", "availableUntilDate": "2023-10-02" },
+    { "_id": "A201", "title": "Aerodynamics Quiz", "description": "Description on Aerodynamics", "course": "RS102", "dueDate": "2023-09-18", "availableFromDate": "2023-09-11", "availableUntilDate": "2023-09-18" },
+    { "_id": "A202", "title": "Flow Analysis", "description": "Description on Flow Analysis", "course": "RS102", "dueDate": "2023-09-25", "availableFromDate": "2023-09-18", "availableUntilDate": "2023-09-25" },
+    { "_id": "A203", "title": "Heating Analysis", "description": "Description on Heat Analysis", "course": "RS102", "dueDate": "2023-10-02", "availableFromDate": "2023-09-25", "availableUntilDate": "2023-10-02" },
+    { "_id": "A301", "title": "Structural Design Task", "description": "Description on Structual Design", "course": "RS103", "dueDate": "2023-09-18", "availableFromDate": "2023-09-11", "availableUntilDate": "2023-09-18" },
+    { "_id": "A302", "title": "Orbital Calculations", "description": "Description on Orbital Calculations", "course": "RS103", "dueDate": "2023-09-25", "availableFromDate": "2023-09-18", "availableUntilDate": "2023-09-25" },
+    { "_id": "A303", "title": "Systems Engineering Exam", "description": "Description on Systems Engineering", "course": "RS103", "dueDate": "2023-10-02", "availableFromDate": "2023-09-25", "availableUntilDate": "2023-10-02" }
+]
